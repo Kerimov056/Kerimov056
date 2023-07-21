@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=2BF723&lines=Hello,+my+name+is+Nurlan.;I'm+software+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=2BF723&lines=Hello,+my+name+is+Ulvi.;I'm+software+developer.)](https://git.io/typing-svg)
 # 🏄‍♂️ Kerimov Ulvi
 
 **`A passionate developer from Azerbaijan.`**
@@ -14,7 +14,7 @@ When I am not coding, you can find me indulging in my hobbies, such as reading, 
  📫 How to reach me **ulvisk@code.edu.az**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/ker1mof.ulvi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nurlan_nuruzada" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ker1mof.ulvi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ulvi_kerimov" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,9 +22,9 @@ When I am not coding, you can find me indulging in my hobbies, such as reading, 
 ---
 :chart_with_upwards_trend: Github stats 
 ---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurlannuruzada&show_icons=true&theme=tokyonight&title_color=a63ea8&text_color=e1ade0&locale=en&layout=compact" alt="Ker1mof" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ulvikerimov&show_icons=true&theme=tokyonight&title_color=a63ea8&text_color=e1ade0&locale=en&layout=compact" alt="Ker1mof" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nurlannuruzada&show_icons=true&theme=tokyonight&title_color=f1a2fb&text_color=ad66c7&locale=en" alt="nurlannuruzada" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ulvikerimov&show_icons=true&theme=tokyonight&title_color=f1a2fb&text_color=ad66c7&locale=en" alt="ulvikerimov" /></p>
 
 ---
 
