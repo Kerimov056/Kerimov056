@@ -85,11 +85,4 @@ When I am not coding, you can find me indulging in my hobbies, such as reading, 
 ![Tech Snake](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 ---
-## 🎵 My Theme Song
-
-<p align="center">
-  <a href="https://open.spotify.com/track/YOUR_TRACK_ID" target="_blank">
-    <img src="https://img.shields.io/badge/Listen%20to%20My%20Music-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Listen to Music" />
-  </a>
-</p>
 
