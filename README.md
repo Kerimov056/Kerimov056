@@ -82,6 +82,6 @@ When I am not coding, you can find me indulging in my hobbies, such as reading, 
 ---
 
 <!-- Buradakı ilan oyun gifini maraqlı tech snake ilə əvəz etdik -->
-![API Circuit](./api-512d36c09662682717108a38bbb5c57d.gif)
+![Tech Snake](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 ---
