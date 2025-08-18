@@ -11,11 +11,10 @@ When I am not coding, you can find me indulging in my hobbies, such as reading, 
 - 👨‍💻 All of my projects are available at https://github.com/Kerimov056
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KerimovUlvi&label=Profile%20views&color=0e75b6&style=flat" alt="Ker1mof" /> </p>
 --
- 📫 How to reach me **ulvisk@code.edu.az**
+📫 How to reach me **ulvisk@code.edu.az**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/ker1mof.ulvi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ulvi_kerimov" height="30" width="40" /></a>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -26,10 +25,9 @@ When I am not coding, you can find me indulging in my hobbies, such as reading, 
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="ts" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://www.java.com/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
-       alt="java" width="40" height="40"/> 
-</a>
+  <a href="https://www.java.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a>
 
   <!-- Frameworks & Libraries -->
   <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".net" width="40" height="40"/> </a>
@@ -59,20 +57,19 @@ When I am not coding, you can find me indulging in my hobbies, such as reading, 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="rabbitmq" width="40" height="40"/> 
 </a>
 
+<a href="https://learn.microsoft.com/en-us/ef/core/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="efcore" width="40" height="40"/> </a>
+<a href="https://dapperlib.github.io/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/6154722?s=200&v=4" alt="dapper" width="40" height="40"/> </a>
+<a href="https://www.prisma.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40"/> </a>
 
-  <a href="https://learn.microsoft.com/en-us/ef/core/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="efcore" width="40" height="40"/> </a>
-  <a href="https://dapperlib.github.io/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/6154722?s=200&v=4" alt="dapper" width="40" height="40"/> </a>
-  <a href="https://www.prisma.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40"/> </a>
+<!-- DevOps & Tools -->
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
 
-  <!-- DevOps & Tools -->
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
-
-  <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://jmeter.apache.org/" target="_blank"> <img src="https://jmeter.apache.org/images/jmeter_square.png" alt="jmeter" width="40" height="40"/> </a>
-  <a href="https://trello.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/> </a>
+<a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<a href="https://jmeter.apache.org/" target="_blank"> <img src="https://jmeter.apache.org/images/jmeter_square.png" alt="jmeter" width="40" height="40"/> </a>
+<a href="https://trello.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/> </a>
 </p>
 
 ---
@@ -84,7 +81,7 @@ When I am not coding, you can find me indulging in my hobbies, such as reading, 
 
 ---
 
-![snake gif](https://github.com/nurlannuruzada/nurlannuruzada/blob/output/github-contribution-grid-snake.svg)
----
+<!-- Buradakı ilan oyun gifini maraqlı tech snake ilə əvəz etdik -->
+![Tech Snake](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 ---
