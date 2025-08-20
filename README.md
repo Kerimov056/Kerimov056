@@ -3,15 +3,81 @@
 
 **`A passionate developer from Azerbaijan.`**
 
-I am an 23-year-old full-stack web development student with a passion for learning new skills. With expertise in front-end and back-end technologies, including HTML, CSS, JavaScript, React, and Node.js, I am dedicated to staying up-to-date with industry trends. As a team player with excellent communication skills, I bring a strong work ethic and problem-solving abilities to any project.
+👋 Hi, I'm Ulvi
 
-When I am not coding, you can find me indulging in my hobbies, such as reading, playing games, and exploring new cultures. My determination and hunger for learning drive me to make a significant impact in the field of web development and beyond. I am constantly pushing the boundaries of my expertise and seeking opportunities for growth.
+I am a 23-year-old Full-Stack Web Developer with a strong passion for learning and building impactful digital solutions.
+With hands-on experience in front-end, back-end, and mobile development, I love tackling challenges, writing clean code, and collaborating in team environments.
+
+🚀 Always eager to explore new technologies and improve my skills.
+
+💻 Tech Stack
+Languages
+
+C#, JavaScript (ES6+), TypeScript, Python, Dart, SQL, LINQ, HTML5, CSS3, SASS, Java
+
+Frameworks & Libraries
+
+ASP.NET Core, .NET Framework, .NET 6+, ASP.NET MVC
+
+Spring Boot, FastAPI
+
+React.js, Redux, Vue.js
+
+Node.js, Express
+
+Mobile Development
+
+Flutter & Dart
+
+REST API Integration, Firebase (Auth, Firestore)
+
+Custom Widgets, Localization
+
+State Management (Bloc, Provider)
+
+Databases & ORMs
+
+Microsoft SQL Server, PostgreSQL, Supabase, Cassandra
+
+Entity Framework Core, Dapper, Prisma, ADO.NET
+
+Backend & APIs
+
+ASP.NET Web API, RESTful APIs
+
+Supabase Services, MinIO
+
+Version Control & DevOps
+
+Git, GitHub
+
+Docker, Docker Compose
+
+Tools & IDEs
+
+Visual Studio, Visual Studio Code, PyCharm
+
+Postman, JMeter, Trello
+
+Package Managers & Dev Tools
+
+npm, yarn, pip
+
+Python Virtual Environments, Browser Dev Tools, Built-in Debuggers
+
+🌱 About Me
+
+🔥 Passionate about continuous learning & problem solving
+
+🤝 Enjoy working in collaborative team environments
+
+📚 Love reading, gaming, and exploring new cultures in free time
 <br>
 <img  aling="right" alt="Coding" width="400" height="200" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 - 👨‍💻 All of my projects are available at https://github.com/Kerimov056
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KerimovUlvi&label=Profile%20views&color=0e75b6&style=flat" alt="Ker1mof" /> </p>
 --
-📫 How to reach me **ulvisk@code.edu.az**
+📫 How to reach me **kerimovulvi.z01@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/ker1mof.ulvi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ulvi_kerimov" height="30" width="40" /></a>
