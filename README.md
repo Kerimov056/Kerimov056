@@ -4,6 +4,7 @@
 **`A passionate developer from Azerbaijan.`**
 
 👋 Hi, I'm Ulvi
+[![Ümumi dillər](https://github-readme-stats.vercel.app/api/top-langs/?username=AskerzadeU&layout=pie&langs_count=10&size_weight=0.5&count_weight=0.5&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 I am a 23-year-old Full-Stack Web Developer with a strong passion for learning and building impactful digital solutions.
 With hands-on experience in front-end, back-end, and mobile development, I love tackling challenges, writing clean code, and collaborating in team environments.
