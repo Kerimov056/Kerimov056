@@ -8,8 +8,6 @@
 I am a 23-year-old Full-Stack Web Developer with a strong passion for learning and building impactful digital solutions.
 With hands-on experience in front-end, back-end, and mobile development, I love tackling challenges, writing clean code, and collaborating in team environments.
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
-
 🚀 Always eager to explore new technologies and improve my skills.
 
 💻 Tech Stack
